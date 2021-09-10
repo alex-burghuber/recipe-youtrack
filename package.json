@@ -1,0 +1,16 @@
+{
+    "id": "youtrack",
+    "name": "YouTrack",
+    "version": "0.1.0",
+    "description": "YouTrack",
+    "main": "index.js",
+    "author": "Alex Burghuber <aburg.273@gmail.com>",
+    "license": "MIT",
+    "repository": "<todo>",
+    "config": {
+      "serviceURL": "https://{teamId}.myjetbrains.com/",
+      "hasTeamId": true,
+      "urlInputSuffix": "<TeamID>.myjetbrains.com"
+    }
+  }
+  
